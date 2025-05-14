@@ -24,7 +24,7 @@
 
 ### 🧠 Tecnologias mais utilizadas
 
-<div align="center">
+<div>
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanincio&layout=compact&langs_count=8&theme=tokyonight" />
 
