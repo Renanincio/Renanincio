@@ -1,6 +1,6 @@
-<h1 align="center">Olá Dev 👋</h1>
+<h1>Olá Dev 👋</h1>
 
-<p align="center">
+<p>
   Sou um desenvolvedor front-end apaixonado por criar experiências web incríveis!
 </p>
 
