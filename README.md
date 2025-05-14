@@ -26,6 +26,6 @@
 
 <div align="center">
 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanincio&layout=compact&langs_count=8&theme=tokyonight" />
 
 </div>
