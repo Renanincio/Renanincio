@@ -1,4 +1,4 @@
-<h1>Olá Dev 👋</h1>
+<h1>Olá, Dev 👋</h1>
 
 <p>
   Sou um desenvolvedor front-end apaixonado por criar experiências web incríveis!
